@@ -29,3 +29,8 @@ amazon Germany: https://alexa.design/2nVz5pd  Amazon US: http://alexa.design/2oZ
 
 Bluetooh Module:
 Amazon Germany: https://alexa.design/2nVxxvo  Amazon US:https://alexa.design/2nVBUGx
+
+Librarys:
+- Adafruit NeopixelLibrary https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library-installation
+- psychogenic's SerialUI Library https://github.com/psychogenic/SerialUI
+- 
