@@ -3,6 +3,7 @@ The Photobooth lightning system!
 
 Welcome to the Boothring Photobooth Lightning Project. 
 The BoothRing is a flexible lightning system for your Photobooth. It can countdown the time, control the printer lightning. Connectible to most softwares.
+It works with DSLR Remote from BreezeSYS and Socalbooth. 
 
 
 Follow us:
@@ -33,4 +34,7 @@ Amazon Germany: https://alexa.design/2nVxxvo  Amazon US:https://alexa.design/2nV
 Librarys:
 - Adafruit NeopixelLibrary https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library-installation
 - psychogenic's SerialUI Library https://github.com/psychogenic/SerialUI
-- 
+
+#Autohotkey -  the connection to the Photobooth Program
+
+The sample Autohotkey script works with SocialBooth. It checks the Window title an sends serial Data to the controller. Yu can change this script to use it with DSLRremote pro from Breezesys.
