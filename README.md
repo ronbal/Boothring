@@ -4,7 +4,7 @@ The Photobooth lightning system!
 Welcome to the Boothring Photobooth Lightning Project. 
 The BoothRing is a flexible lightning system for your Photobooth. It can countdown the time, control the printer lightning. Connectible to most softwares.
 It works with DSLR Remote from BreezeSYS and Socalbooth. 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/ronbal/Boothring/boothring_Steckplatine.jpg)
 
 Follow us:
 Facebook: https://www.facebook.com/BoothRing-the-new-Photobooth-lightning-system-1377303722591725/
